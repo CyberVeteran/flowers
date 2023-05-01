@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.flower-image {
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 10px;
+}
+.flower-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
